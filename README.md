@@ -1,6 +1,6 @@
 # linecount
 
-<u>Usage</u>
+<b>Usage</b>
 
 ./linecount.pl <code_path>
 
