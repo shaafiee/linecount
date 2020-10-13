@@ -5,6 +5,7 @@
 ./linecount.pl <code_path>
 
 If <code_path> is not supplied, then the execution path is used for code_path.
+
   
 <b>To add exclusions</b>
 
