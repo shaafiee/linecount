@@ -6,7 +6,7 @@
 
 If <code_path> is not supplied, then the execution path is used for code_path.
 
-  
+<br />
 <b>To add exclusions</b>
 
 Add the text file 'exclude.list' in the execution path (not always the <code_path>).
